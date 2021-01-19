@@ -1,0 +1,36 @@
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.deps.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csprojAssemblyReference.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.AssemblyInfoInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.AssemblyInfo.cs
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csproj.CoreCompileInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csproj.CopyComplete
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.deps.json
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csprojAssemblyReference.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.AssemblyInfoInputs.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.AssemblyInfo.cs
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csproj.CopyComplete
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.deps.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csprojAssemblyReference.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.AssemblyInfoInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.AssemblyInfo.cs
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csproj.CoreCompileInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.csproj.CopyComplete
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\02 - Api Logic Layer\obj\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb

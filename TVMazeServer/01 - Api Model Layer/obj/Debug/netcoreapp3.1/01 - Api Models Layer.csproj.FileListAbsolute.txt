@@ -1,0 +1,9 @@
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\bin\Debug\netcoreapp3.1\01 - Api Models Layer.deps.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\obj\Debug\netcoreapp3.1\01 - Api Models Layer.csprojAssemblyReference.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\obj\Debug\netcoreapp3.1\01 - Api Models Layer.AssemblyInfoInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\obj\Debug\netcoreapp3.1\01 - Api Models Layer.AssemblyInfo.cs
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\obj\Debug\netcoreapp3.1\01 - Api Models Layer.csproj.CoreCompileInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\obj\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\ClassLibrary1\obj\Debug\netcoreapp3.1\01 - Api Models Layer.pdb

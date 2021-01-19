@@ -1,0 +1,81 @@
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.exe
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.deps.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.runtimeconfig.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.runtimeconfig.dev.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csprojAssemblyReference.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.AssemblyInfoInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.AssemblyInfo.cs
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csproj.CoreCompileInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.RazorTargetAssemblyInfo.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csproj.CopyComplete
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\staticwebassets\03 - Restful Api.StaticWebAssets.Manifest.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\staticwebassets\03 - Restful Api.StaticWebAssets.xml
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.genruntimeconfig.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.exe
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.deps.json
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.runtimeconfig.json
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.runtimeconfig.dev.json
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csprojAssemblyReference.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.AssemblyInfoInputs.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.AssemblyInfo.cs
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csproj.CoreCompileInputs.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\staticwebassets\03 - Restful Api.StaticWebAssets.Manifest.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\staticwebassets\03 - Restful Api.StaticWebAssets.xml
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\03 - Restful Api.styles.css
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.RazorTargetAssemblyInfo.cache
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csproj.CopyComplete
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.dll
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.pdb
+C:\Users\fayeg\Downloads\TVMaze\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.genruntimeconfig.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.exe
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.deps.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.runtimeconfig.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.runtimeconfig.dev.json
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\03 - Restful Api.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\01 - Api Models Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\02 - Api Logic Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\bin\Debug\netcoreapp3.1\01 - Api Models Layer.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csprojAssemblyReference.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.AssemblyInfoInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.AssemblyInfo.cs
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csproj.CoreCompileInputs.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.RazorTargetAssemblyInfo.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.csproj.CopyComplete
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\staticwebassets\03 - Restful Api.StaticWebAssets.Manifest.cache
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\staticwebassets\03 - Restful Api.StaticWebAssets.xml
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.dll
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.pdb
+C:\Projects John Bryce\TVMaze Exercise\TVMaze1\TVMaze1\TVMaze\03 - Restful Api\obj\Debug\netcoreapp3.1\03 - Restful Api.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Iro/eIiqn7COqvbyOZGeeBiElnl81CyOS/Nlxt1rR6S2bxqwCCJxPWlXWSAHqoCOp5j9uCLogAlPvQ2qvgaFg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects John Bryce\\TVMaze Exercise\\TVMaze1\\TVMaze1\\TVMaze\\02 - Api Logic Layer\\02 - Api Logic Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97250\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+<br>
+<p>Please enter TV show name to search TV shows</p>
+<input (keyup)="onKey($event)" type="text" placeholder="search TV Show by name..."><br><br>
+<button (click)="search()">Send</button><br><br>
+
+
+<ng-container>
+<div *ngFor='let s of shows'>
+    <mat-card class="example-card" >
+        <mat-card-header>
+            <mat-card-title>{{s.name}}</mat-card-title>
+            <mat-card-subtitle>Average Raiting {{s.rating?.average}}</mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image [src]="s.image?.medium" alt="">
+        <mat-card-content>
+            <p>Url - {{s.url}}</p>
+            <p>Official Site - {{s.officialSite}}</p>
+        </mat-card-content>
+    </mat-card>
+</div>
+</ng-container>

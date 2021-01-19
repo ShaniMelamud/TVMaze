@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GW2GvT8O9wwrjEde1T+nPbaxlIudkm2YHWYxx/DLbvk8TagAbMdJTkHn7dbNZS3EPtwe0TQSyzGfidAgIh4CPw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects John Bryce\\TVMaze Exercise\\TVMaze1\\TVMaze1\\TVMaze\\03 - Restful Api\\03 - Restful Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97250\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

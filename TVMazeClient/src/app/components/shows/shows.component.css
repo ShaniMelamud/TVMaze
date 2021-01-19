@@ -1,0 +1,39 @@
+table{
+    border: 1px solid black;
+    margin: 20px;
+    vertical-align: middle;
+}
+th, td{
+    border: 1px solid black;
+    width: 200px;
+}
+div{
+    height: 100px;
+    display: table-cell;
+    margin: 5px;
+    border: 5px solid transparent;
+}
+td>button{
+    border-radius: 20px;
+    width: 100px;
+}
+.example-card {
+    max-width: 400px;
+    height: 500px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  ng-container{
+    display: table;
+    width: 100%;
+  }
+  img{
+      height: 300px;
+  }
+  
